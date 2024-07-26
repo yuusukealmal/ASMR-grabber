@@ -32,7 +32,7 @@ class download:
                 if item["type"] == "folder":
                     folder_path = os.path.join(current_path, item["title"])
                     os.makedirs(folder_path, exist_ok=True)
-                    self.scan(item["children"], folder_path)
+                    await self.scan(item["children"], folder_path)
                 else:
                     await self.download_file(item.get("mediaDownloadUrl"), current_path, item.get("title"))
 

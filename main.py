@@ -17,22 +17,25 @@ async def main(codes):
             info, tracks = await asyncio.gather(asmr.get_voice_info(code), asmr.get_voice_tracks(code))
 
             handle.info(info).print_info()
-            handle.download(code, tracks, asmr.headers).search(tracks, os.path.join('.', 'RJ{}'.format(code)))
+            await handle.download(code, tracks, asmr.headers).scan(tracks, os.path.join('.', 'RJ{}'.format(code)))
         except Exception as e:
             continue
 
-if __name__ == '__main__':
+async def check():    
     config = configparser.ConfigParser()
     config.read('./config.ini')
     
     if config.has_option('account', 'name') and config.has_option('account', 'password'):
-        if not acc.auth(config.get('account', 'name'), config.get('account', 'password')):
-            acc.check()
+        if not await acc.auth(config.get('account', 'name'), config.get('account', 'password')):
+            await acc.check()
     else:
-        acc.check()
+        await acc.check()
 
     code = input('Please input RJ code (Split with space): ')
 
     codes = [item.split('RJ')[-1] if 'RJ' in item else item.split('/')[-1] for item in code.split(' ')]
     if [item for item in codes if item]:
-        asyncio.run(main(codes))
+        await main(codes)
+
+if __name__ == '__main__':
+    asyncio.run(check())

@@ -2,17 +2,20 @@ import os
 import requests
 import configparser
 
-def check():
+async def check():
     config = configparser.ConfigParser()
     config.read('./config.ini')
 
     if not config.has_section('account') or not (config.has_option('account', 'name') and config.has_option('account', 'password')):
-        print("Account information error, please input your account information again")
+        if input('Account information error, do you want to use guest account? [y/n]').lower() == 'y':
+            name, password = "guest", "guest"
+        else:
+            print("Account information error, please input your account information again")
 
-        name = input('Please input your name: ')
-        password = input('Please input your password: ')
+            name = input('Please input your name: ')
+            password = input('Please input your password: ')
 
-        if auth(name, password):
+        if await auth(name, password):
             if not config.has_section('account'):
                 config.add_section('account')
 
@@ -22,18 +25,18 @@ def check():
             with open("./config.ini", 'w') as f:
                 config.write(f)
         else:
-            check()
+            await check()
     else:
         if config.has_option('account', 'name') and config.has_option('account', 'password'):
-            if auth(config['account']['name'], config['account']['password']) == False:
+            if await auth(config['account']['name'], config['account']['password']) == False:
                 config.remove_option('account', 'name')
                 config.remove_option('account', 'password')
                 with open("./config.ini", 'w') as f:
                     config.write(f)
-                check()
+                await check()
 
 
-def auth(name, password) -> bool:
+async def auth(name, password) -> bool:
     req = requests.post(
         url='https://api.asmr.one/api/auth/me',
         json={

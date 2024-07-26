@@ -1,6 +1,6 @@
 import os, requests, time
 from typing import Any, Dict
-from tqdm.rich import tqdm
+from tqdm import tqdm
 
 class info:
     def __init__(self, info: Dict[str, Any]) -> None:
@@ -26,7 +26,7 @@ class download:
             folder_path = os.path.join('.', 'RJ{}'.format(self.id), folder['title'])
             os.mkdir(folder_path)
 
-    def scan(self, data, current_path):
+    async def scan(self, data, current_path):
         for item in data:
             if "type" in item:
                 if item["type"] == "folder":
@@ -34,7 +34,7 @@ class download:
                     os.makedirs(folder_path, exist_ok=True)
                     self.scan(item["children"], folder_path)
                 else:
-                    self.download_file(item.get("mediaDownloadUrl"), current_path, item.get("title"))
+                    await self.download_file(item.get("mediaDownloadUrl"), current_path, item.get("title"))
 
     def search(self, keyword):
         response = requests.get(
@@ -44,7 +44,7 @@ class download:
         ).json()
         
 
-    def download_file(self, url, folder: str, file: str):
+    async def download_file(self, url, folder: str, file: str):
         response = requests.get(
             url=url,
             headers=self.headers,

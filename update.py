@@ -26,4 +26,6 @@ async def update():
 
 if __name__ == "__main__":
     load_dotenv()
+    if not os.path.exists("./RJS"):
+        os.mkdir("./RJS")
     asyncio.run(update())

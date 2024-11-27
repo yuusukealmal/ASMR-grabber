@@ -7,6 +7,7 @@ class ASMR:
         self.requests = requests
         self.name = name
         self.password = password
+        self.uuid = None
         self.headers = {
             "Referer": 'https://www.asmr.one/',
             "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'
@@ -19,15 +20,13 @@ class ASMR:
                 "name": self.name,
                 "password": self.password
             },
-            headers={
-                "Referer": 'https://www.asmr.one/',
-                "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
-            },
+            headers=self.headers,
             timeout=120
         )
         self.headers |= {
             "Authorization": f"Bearer {(req.json())['token']}",
         }
+        self.uuid = req.json()["user"]['recommenderUuid']
 
     async def get_voice_info(self, voice_id: str) -> Dict[str, Any]:
         resp = self.requests.get(
@@ -47,3 +46,12 @@ class ASMR:
             timeout=120
         )
         return resp.json()
+
+    async def request(self, method, url, json=None):
+        return self.requests.request(
+            method=method,
+            url=url,
+            headers=self.headers,
+            json=json,
+            timeout=120
+        )

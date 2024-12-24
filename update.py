@@ -1,7 +1,7 @@
 from asmr import ASMR
 from dotenv import load_dotenv
 import asyncio, os, requests, json
-
+from git import Repo
 
 BASE = "https://api.asmr-200.com/api/"
 URLS = [
@@ -24,8 +24,26 @@ async def update():
     else:
         print("ASMR-200 無法連線")
 
+def git_push():
+    load_dotenv()
+    try:
+        repo = Repo(os.getenv("REPO"))
+
+        if repo.is_dirty(untracked_files=True) or repo.index.diff(None):
+            repo.git.add(update=True)
+            repo.index.commit("Update RJS")
+            origin = repo.remote(name='origin')
+            origin.push()
+            print("Changes were pushed to the repository.")
+        else:
+            print("No changes to commit or push.")
+
+    except Exception as e:
+        print('Some error occurred while pushing the code:', e) 
+
 if __name__ == "__main__":
     load_dotenv()
     if not os.path.exists("./RJS"):
         os.mkdir("./RJS")
     asyncio.run(update())
+    git_push()

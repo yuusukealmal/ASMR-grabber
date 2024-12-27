@@ -14,7 +14,7 @@ URLS = [
 ]
 
 async def update():
-    if requests.get(BASE + "health").text == "OK":        
+    if requests.get(BASE + "health").text == "OK":
         asmr  = ASMR(os.environ.get("USERNAME"), os.environ.get("PASSWORD"))
         await asmr.get_token()
         for url, method, name in URLS:

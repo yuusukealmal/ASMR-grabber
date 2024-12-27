@@ -23,6 +23,7 @@ class ASMR:
             headers=self.headers,
             timeout=120
         )
+        print(req.json())
         self.headers |= {
             "Authorization": f"Bearer {(req.json())['token']}",
         }

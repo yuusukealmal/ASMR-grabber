@@ -1,6 +1,252 @@
 {
     "works": [
         {
+            "id": 1281378,
+            "title": "保健室の天使たちに心まで癒されて～のんびりなクラスメイトの膝枕でふわふわお耳かき～【CV.山本彩乃】",
+            "circle_id": 49556,
+            "name": "RaRo",
+            "nsfw": false,
+            "release": "2024-12-12",
+            "dl_count": 475,
+            "price": 1650,
+            "review_count": 0,
+            "rate_count": 70,
+            "rate_average_2dp": 4.86,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 1,
+                    "ratio": 1
+                },
+                {
+                    "review_point": 4,
+                    "count": 8,
+                    "ratio": 11
+                },
+                {
+                    "review_point": 5,
+                    "count": 61,
+                    "ratio": 87
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "all",
+                    "rank": 28,
+                    "rank_date": "2024-12-13"
+                },
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 17,
+                    "rank_date": "2024-12-12"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2025-01-11",
+            "vas": [
+                {
+                    "id": "c53305b8-0bcd-565f-b89a-f6bc4d91f4d2",
+                    "name": "山本彩乃"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "i18n": {
+                        "en-us": {
+                            "name": "School / Academy"
+                        },
+                        "ja-jp": {
+                            "name": "学校/学園"
+                        },
+                        "zh-cn": {
+                            "name": "学校/学园",
+                            "history": []
+                        }
+                    },
+                    "name": "学校/学园"
+                },
+                {
+                    "id": 51,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Moe"
+                        },
+                        "ja-jp": {
+                            "name": "萌え"
+                        },
+                        "zh-cn": {
+                            "name": "萌",
+                            "history": []
+                        }
+                    },
+                    "name": "萌"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 296,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Serial Product"
+                        },
+                        "ja-jp": {
+                            "name": "シリーズもの"
+                        },
+                        "zh-cn": {
+                            "name": "系列作品",
+                            "history": []
+                        }
+                    },
+                    "name": "系列作品"
+                },
+                {
+                    "id": 442,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Cleaning"
+                        },
+                        "ja-jp": {
+                            "name": "耳かき"
+                        },
+                        "zh-cn": {
+                            "name": "掏耳",
+                            "history": []
+                        }
+                    },
+                    "name": "掏耳"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                },
+                {
+                    "id": 503,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Whispering"
+                        },
+                        "ja-jp": {
+                            "name": "ささやき"
+                        },
+                        "zh-cn": {
+                            "name": "低语",
+                            "history": []
+                        }
+                    },
+                    "name": "低语"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01281378",
+                    "edition_id": 31638,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01318653",
+                    "edition_id": 31638,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": true,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 20
+            },
+            "work_attributes": "RG49556,male,SOU,SND,JPN,DLP,TRI,497,496,051,056,296,442,503,001",
+            "age_category_string": "general",
+            "duration": 7525,
+            "source_type": "DLSITE",
+            "source_id": "RJ01281378",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01281378.html",
+            "userRating": null,
+            "circle": {
+                "id": 49556,
+                "name": "RaRo",
+                "source_id": "RG49556",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1281378.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1281378.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1281378.jpg?type=main"
+        },
+        {
             "id": 1303606,
             "title": "【简体中文版】高级魅魔Vtuber桃濑梅露大人的集体自慰协助直播&个别通话",
             "circle_id": 1014816,
@@ -515,7 +761,7 @@
             },
             "work_attributes": "RG69179,adl,male,SOU,SND,DLP,TRI,REV,CHI_HANS,497,496,207,212,124,138,128,129",
             "age_category_string": "adult",
-            "duration": 6978,
+            "duration": 6982,
             "source_type": "DLSITE",
             "source_id": "RJ01298977",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01298977.html",
@@ -1683,7 +1929,7 @@
             },
             "work_attributes": "RG71522,adl,male,SOU,SND,DLP,REV,TRI,CHI_HANS,496,497,006,128,122,138,500,113",
             "age_category_string": "adult",
-            "duration": 8514,
+            "duration": 8515,
             "source_type": "DLSITE",
             "source_id": "RJ01251872",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01251872.html",
@@ -1915,7 +2161,7 @@
             },
             "work_attributes": "RG01008994,adl,male,SOU,SND,DLP,TRI,REV,CHI_HANS,496,006,077,524,156,147,182,128",
             "age_category_string": "adult",
-            "duration": 6464,
+            "duration": 6465,
             "source_type": "DLSITE",
             "source_id": "RJ01294586",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01294586.html",
@@ -2129,7 +2375,7 @@
             },
             "work_attributes": "RG75245,adl,male,SOU,SND,DLP,REV,CHI_HANS,115,156,539,506,130,538,004",
             "age_category_string": "adult",
-            "duration": 5242,
+            "duration": 5250,
             "source_type": "DLSITE",
             "source_id": "RJ01300312",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01300312.html",
@@ -2360,7 +2606,7 @@
             },
             "work_attributes": "RG01008342,adl,male,SOU,SND,DLP,TRI,CHI,CHI_HANS,JPN,REV,004,009,032,176,122,124,514,152",
             "age_category_string": "adult",
-            "duration": 6520,
+            "duration": 6525,
             "source_type": "DLSITE",
             "source_id": "RJ01297162",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01297162.html",
@@ -2699,7 +2945,7 @@
             },
             "work_attributes": "RG01017150,adl,male,SOU,SND,DLP,REV,TRI,CHI_HANS",
             "age_category_string": "adult",
-            "duration": 6317,
+            "duration": 5629,
             "source_type": "DLSITE",
             "source_id": "RJ01298476",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01298476.html",
@@ -3637,7 +3883,7 @@
             },
             "work_attributes": "RG64225,adl,male,SOU,JPN,SND,DLP,REV,TRI,497,496,526,488,124,140,128,500",
             "age_category_string": "adult",
-            "duration": 7019,
+            "duration": 7017,
             "source_type": "DLSITE",
             "source_id": "RJ01284198",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01284198.html",
@@ -4389,7 +4635,7 @@
             },
             "work_attributes": "RG47566,adl,male,SOU,SND,TRI,JPN,DLP,REV,409,447,128,138,149,193,522,526",
             "age_category_string": "adult",
-            "duration": 10336,
+            "duration": 10343,
             "source_type": "DLSITE",
             "source_id": "RJ01299224",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01299224.html",
@@ -4403,264 +4649,11 @@
             "samCoverUrl": "https://api.asmr-200.com/api/cover/1299224.jpg?type=sam",
             "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1299224.jpg?type=240x240",
             "mainCoverUrl": "https://api.asmr-200.com/api/cover/1299224.jpg?type=main"
-        },
-        {
-            "id": 1298411,
-            "title": "【简体中文版】百合玷污调教～把身为纯爱百合情侣的学园姐妹、变成我专用的肉棒献媚无套做爱应援啦啦队女孩的计划～",
-            "circle_id": 1014816,
-            "name": "neonnyan",
-            "nsfw": true,
-            "release": "2024-12-03",
-            "dl_count": 145,
-            "price": 1848,
-            "review_count": 0,
-            "rate_count": 0,
-            "rate_average_2dp": 0,
-            "rate_count_detail": [],
-            "rank": null,
-            "has_subtitle": true,
-            "create_date": "2025-01-02",
-            "vas": [
-                {
-                    "id": "53cb3fab-40f0-5962-b4f4-c07f2431da29",
-                    "name": "青葉りんご"
-                },
-                {
-                    "id": "b056285c-ec46-5cf7-9a87-c8ebbd4f44d2",
-                    "name": "西瓜すいか"
-                }
-            ],
-            "tags": [
-                {
-                    "id": 6,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Decadent / Immoral"
-                        },
-                        "ja-jp": {
-                            "name": "退廃/背徳/インモラル"
-                        },
-                        "zh-cn": {
-                            "name": "颓废/背德",
-                            "history": []
-                        }
-                    },
-                    "name": "颓废/背德"
-                },
-                {
-                    "id": 118,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Lesbian",
-                            "history": [
-                                {
-                                    "name": "Female Homosexuality",
-                                    "deprecatedAt": 1712218463252
-                                }
-                            ]
-                        },
-                        "ja-jp": {
-                            "name": "レズ/女同士"
-                        },
-                        "zh-cn": {
-                            "name": "蕾丝/女同",
-                            "history": []
-                        }
-                    },
-                    "name": "蕾丝/女同"
-                },
-                {
-                    "id": 158,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Yuri / Girls Love"
-                        },
-                        "ja-jp": {
-                            "name": "百合"
-                        },
-                        "zh-cn": {
-                            "name": "百合"
-                        }
-                    },
-                    "name": "百合"
-                },
-                {
-                    "id": 193,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Virgin Female",
-                            "history": []
-                        },
-                        "ja-jp": {
-                            "name": "処女"
-                        },
-                        "zh-cn": {
-                            "name": "处女",
-                            "history": []
-                        }
-                    },
-                    "name": "处女"
-                },
-                {
-                    "id": 302,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Cuckoldry (Netori)",
-                            "history": []
-                        },
-                        "ja-jp": {
-                            "name": "寝取り"
-                        },
-                        "zh-cn": {
-                            "name": "NTR/寝取",
-                            "history": [
-                                {
-                                    "name": "寝取",
-                                    "deprecatedAt": 1712218463247
-                                }
-                            ]
-                        }
-                    },
-                    "name": "寝取"
-                },
-                {
-                    "id": 496,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Binaural"
-                        },
-                        "ja-jp": {
-                            "name": "バイノーラル/ダミヘ"
-                        },
-                        "zh-cn": {
-                            "name": "双声道立体声/人头麦",
-                            "history": [
-                                {
-                                    "name": "环绕音",
-                                    "deprecatedAt": 1712218463247
-                                }
-                            ]
-                        }
-                    },
-                    "name": "环绕音"
-                },
-                {
-                    "id": 524,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Vulgar Moans",
-                            "history": []
-                        },
-                        "ja-jp": {
-                            "name": "オホ声"
-                        },
-                        "zh-cn": {
-                            "name": "哦吼淫叫",
-                            "history": [
-                                {
-                                    "name": "啊哦淫叫",
-                                    "deprecatedAt": 1712218463245
-                                }
-                            ]
-                        }
-                    },
-                    "name": "啊哦淫叫"
-                },
-                {
-                    "id": 526,
-                    "i18n": {
-                        "en-us": {
-                            "name": "Pleasure Corruption",
-                            "history": []
-                        },
-                        "ja-jp": {
-                            "name": "快楽堕ち"
-                        },
-                        "zh-cn": {
-                            "name": "沉迷快乐/快乐堕落",
-                            "history": [
-                                {
-                                    "name": "沉迷快乐",
-                                    "deprecatedAt": 1712218463249
-                                }
-                            ]
-                        }
-                    },
-                    "name": "沉迷快乐"
-                }
-            ],
-            "language_editions": [
-                {
-                    "lang": "JPN",
-                    "label": "日本語",
-                    "workno": "RJ01260379",
-                    "edition_id": 30335,
-                    "edition_type": "language",
-                    "display_order": 1
-                },
-                {
-                    "lang": "CHI_HANS",
-                    "label": "簡体中文",
-                    "workno": "RJ01298410",
-                    "edition_id": 30335,
-                    "edition_type": "language",
-                    "display_order": 5
-                },
-                {
-                    "lang": "CHI_HANT",
-                    "label": "繁体中文",
-                    "workno": "RJ01302058",
-                    "edition_id": 30335,
-                    "edition_type": "language",
-                    "display_order": 7
-                }
-            ],
-            "original_workno": "RJ01260379",
-            "other_language_editions_in_db": [
-                {
-                    "id": 1260379,
-                    "lang": "日本語",
-                    "title": "ゆりよごし調教〜純愛百合ップルの学園姉妹を、俺専用のちん媚び生ハメ応援チアガールにする計画〜",
-                    "source_id": "RJ01260379",
-                    "is_original": true,
-                    "source_type": "DLSITE"
-                }
-            ],
-            "translation_info": {
-                "lang": "CHI_HANS",
-                "is_child": true,
-                "is_parent": false,
-                "is_original": false,
-                "is_volunteer": false,
-                "child_worknos": [],
-                "parent_workno": "RJ01298410",
-                "original_workno": "RJ01260379",
-                "is_translation_agree": false,
-                "translation_bonus_langs": [],
-                "is_translation_bonus_child": false,
-                "production_trade_price_rate": 0
-            },
-            "work_attributes": "RG01014816,adl,male,SOU,SND,DLP,REV,TRI,CHI_HANS,158,193,302,006,524,118,526,496",
-            "age_category_string": "adult",
-            "duration": 8919,
-            "source_type": "DLSITE",
-            "source_id": "RJ01298411",
-            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01298411.html",
-            "userRating": null,
-            "circle": {
-                "id": 1014816,
-                "name": "neonnyan",
-                "source_id": "RG01014816",
-                "source_type": "DLSITE"
-            },
-            "samCoverUrl": "https://api.asmr-200.com/api/cover/1298411.jpg?type=sam",
-            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1298411.jpg?type=240x240",
-            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1298411.jpg?type=main"
         }
     ],
     "pagination": {
         "currentPage": 1,
         "pageSize": 20,
-        "totalCount": 51850
+        "totalCount": 51852
     }
 }

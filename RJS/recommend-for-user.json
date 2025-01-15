@@ -1345,7 +1345,7 @@
             },
             "work_attributes": "RG01020387,adl,male,SOU,SND,JPN,DLP,TRI,REV,285,014,004,500,138,128,193",
             "age_category_string": "adult",
-            "duration": 9057,
+            "duration": 9066,
             "source_type": "DLSITE",
             "source_id": "RJ01297520",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01297520.html",
@@ -4323,7 +4323,7 @@
             },
             "work_attributes": "RG01020856,adl,male,SOU,SND,TRI,REV,DLP,CHI_HANS,497,496,442,500,124,317",
             "age_category_string": "adult",
-            "duration": 23563,
+            "duration": 23562,
             "source_type": "DLSITE",
             "source_id": "RJ01235836",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01235836.html",
@@ -4875,7 +4875,7 @@
             },
             "work_attributes": "RG48375,adl,male,SOU,SND,TRI,JPN,DLP,REV",
             "age_category_string": "adult",
-            "duration": 8770,
+            "duration": 8771,
             "source_type": "DLSITE",
             "source_id": "RJ01100636",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01100636.html",
@@ -4895,6 +4895,6 @@
     "pagination": {
         "currentPage": 1,
         "pageSize": 20,
-        "totalCount": 749
+        "totalCount": 765
     }
 }

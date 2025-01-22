@@ -2069,7 +2069,7 @@
             },
             "work_attributes": "RG51517,adl,male,SOU,JPN,SND,DLP,REV,409,316,530,440,003,536,433",
             "age_category_string": "adult",
-            "duration": 3281,
+            "duration": 3275,
             "source_type": "DLSITE",
             "source_id": "RJ01314705",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01314705.html",
@@ -3438,7 +3438,7 @@
             },
             "work_attributes": "RG01001331,adl,male,SOU,SND,DLP,TRI,CHI_HANS,046,514,524,268,182,122,138,128",
             "age_category_string": "adult",
-            "duration": 11572,
+            "duration": 10597,
             "source_type": "DLSITE",
             "source_id": "RJ01304660",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01304660.html",
@@ -4592,6 +4592,6 @@
     "pagination": {
         "currentPage": 1,
         "pageSize": 20,
-        "totalCount": 52064
+        "totalCount": 52065
     }
 }

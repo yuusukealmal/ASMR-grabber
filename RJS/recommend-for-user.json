@@ -345,7 +345,7 @@
             },
             "work_attributes": "RG01008071,male,SOU,SND,DLP,JPN,497,519",
             "age_category_string": "general",
-            "duration": 3,
+            "duration": 4,
             "source_type": "DLSITE",
             "source_id": "RJ01096025",
             "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01096025.html",
@@ -4943,6 +4943,6 @@
     "pagination": {
         "currentPage": 1,
         "pageSize": 20,
-        "totalCount": 841
+        "totalCount": 866
     }
 }

@@ -1,0 +1,4768 @@
+{
+    "works": [
+        {
+            "id": 1250851,
+            "title": "【早期限定8大特典】",
+            "circle_id": 68316,
+            "name": "マヨタマ",
+            "nsfw": true,
+            "release": "2024-09-04",
+            "dl_count": 0,
+            "price": 0,
+            "review_count": 0,
+            "rate_count": 346,
+            "rate_average_2dp": 4.82,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 15,
+                    "ratio": 4
+                },
+                {
+                    "review_point": 4,
+                    "count": 28,
+                    "ratio": 8
+                },
+                {
+                    "review_point": 5,
+                    "count": 302,
+                    "ratio": 87
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [],
+            "tags": [],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 50
+            },
+            "work_attributes": "RG68316,adl,male,SOU,SND,JPN,DLP",
+            "age_category_string": "adult",
+            "duration": 678,
+            "source_type": "DLSITE",
+            "source_id": "RJ01250851",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01250851.html",
+            "userRating": null,
+            "circle": {
+                "id": 68316,
+                "name": "マヨタマ",
+                "source_id": "RG68316",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1250851.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1250851.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1250851.jpg?type=main"
+        },
+        {
+            "id": 1225741,
+            "title": "地味でぼっちなクラスメイトに告白したら",
+            "circle_id": 37482,
+            "name": "歌い鈴",
+            "nsfw": false,
+            "release": "2024-09-04",
+            "dl_count": 259,
+            "price": 330,
+            "review_count": 2,
+            "rate_count": 50,
+            "rate_average_2dp": 4.98,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 1,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 5,
+                    "count": 49,
+                    "ratio": 98
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "fe4090f0-1eb1-5f4a-baff-4cb6d27cbfe0",
+                    "name": "はやせあい"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 4,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovey Dovey / Sweet Love"
+                        },
+                        "ja-jp": {
+                            "name": "ラブラブ/あまあま"
+                        },
+                        "zh-cn": {
+                            "name": "亲热/甜蜜",
+                            "history": [
+                                {
+                                    "name": "纯爱/甜蜜",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "纯爱/甜蜜"
+                },
+                {
+                    "id": 14,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovers"
+                        },
+                        "ja-jp": {
+                            "name": "恋人同士"
+                        },
+                        "zh-cn": {
+                            "name": "情侣",
+                            "history": []
+                        }
+                    },
+                    "name": "情侣"
+                },
+                {
+                    "id": 51,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Moe"
+                        },
+                        "ja-jp": {
+                            "name": "萌え"
+                        },
+                        "zh-cn": {
+                            "name": "萌",
+                            "history": []
+                        }
+                    },
+                    "name": "萌"
+                },
+                {
+                    "id": 53,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Wholesome",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "健全"
+                        },
+                        "zh-cn": {
+                            "name": "健全"
+                        }
+                    },
+                    "name": "健全"
+                },
+                {
+                    "id": 58,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Totally Happy"
+                        },
+                        "ja-jp": {
+                            "name": "オールハッピー"
+                        },
+                        "zh-cn": {
+                            "name": "皆大欢喜",
+                            "history": []
+                        }
+                    },
+                    "name": "皆大欢喜"
+                },
+                {
+                    "id": 281,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Classmate / Colleague"
+                        },
+                        "ja-jp": {
+                            "name": "同級生/同僚"
+                        },
+                        "zh-cn": {
+                            "name": "同学/同事",
+                            "history": []
+                        }
+                    },
+                    "name": "同学/同事"
+                },
+                {
+                    "id": 296,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Serial Product"
+                        },
+                        "ja-jp": {
+                            "name": "シリーズもの"
+                        },
+                        "zh-cn": {
+                            "name": "系列作品",
+                            "history": []
+                        }
+                    },
+                    "name": "系列作品"
+                },
+                {
+                    "id": 502,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Male Protagonist"
+                        },
+                        "ja-jp": {
+                            "name": "男主人公"
+                        },
+                        "zh-cn": {
+                            "name": "男主人公"
+                        }
+                    },
+                    "name": "男主人公"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01225741",
+                    "edition_id": 27675,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01261025",
+                    "edition_id": 27675,
+                    "edition_type": "language",
+                    "display_order": 3
+                }
+            ],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": true,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 50
+            },
+            "work_attributes": "RG37482,adl,male,SOU,SND,JPN,TRI,DLP,REV,058,053,014,004,281,502,051,296",
+            "age_category_string": "r15",
+            "duration": 3888,
+            "source_type": "DLSITE",
+            "source_id": "RJ01225741",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01225741.html",
+            "userRating": null,
+            "circle": {
+                "id": 37482,
+                "name": "歌い鈴",
+                "source_id": "RG37482",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1225741.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1225741.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1225741.jpg?type=main"
+        },
+        {
+            "id": 1118124,
+            "title": "【简体中文版】【CV八神仙×纯情迷恋】极限OL，遭遇可疑人物被当场侵犯到高潮不断",
+            "circle_id": 68383,
+            "name": "来点乌贼吗",
+            "nsfw": true,
+            "release": "2023-11-23",
+            "dl_count": 591,
+            "price": 935,
+            "review_count": 17,
+            "rate_count": 49,
+            "rate_average_2dp": 4.9,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 2,
+                    "ratio": 4
+                },
+                {
+                    "review_point": 4,
+                    "count": 1,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 5,
+                    "count": 46,
+                    "ratio": 93
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "3ceaca6d-7719-582d-8968-cb9e2ae47bf5",
+                    "name": "八神仙"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 4,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovey Dovey / Sweet Love"
+                        },
+                        "ja-jp": {
+                            "name": "ラブラブ/あまあま"
+                        },
+                        "zh-cn": {
+                            "name": "亲热/甜蜜",
+                            "history": [
+                                {
+                                    "name": "纯爱/甜蜜",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "纯爱/甜蜜"
+                },
+                {
+                    "id": 6,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Decadent / Immoral"
+                        },
+                        "ja-jp": {
+                            "name": "退廃/背徳/インモラル"
+                        },
+                        "zh-cn": {
+                            "name": "颓废/背德",
+                            "history": []
+                        }
+                    },
+                    "name": "颓废/背德"
+                },
+                {
+                    "id": 191,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Large Cock",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "巨根"
+                        },
+                        "zh-cn": {
+                            "name": "巨根"
+                        }
+                    },
+                    "name": "巨根"
+                },
+                {
+                    "id": 316,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Yandere"
+                        },
+                        "ja-jp": {
+                            "name": "ヤンデレ"
+                        },
+                        "zh-cn": {
+                            "name": "病娇",
+                            "history": []
+                        }
+                    },
+                    "name": "病娇"
+                },
+                {
+                    "id": 419,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Delinquent / Hoodlum"
+                        },
+                        "ja-jp": {
+                            "name": "不良/ヤンキー"
+                        },
+                        "zh-cn": {
+                            "name": "不良/混混",
+                            "history": []
+                        }
+                    },
+                    "name": "不良/混混"
+                },
+                {
+                    "id": 491,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "女性向"
+                },
+                {
+                    "id": 503,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Whispering"
+                        },
+                        "ja-jp": {
+                            "name": "ささやき"
+                        },
+                        "zh-cn": {
+                            "name": "低语",
+                            "history": []
+                        }
+                    },
+                    "name": "低语"
+                },
+                {
+                    "id": 521,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Clingy (Dominant)",
+                            "history": [
+                                {
+                                    "name": "執着攻め",
+                                    "deprecatedAt": 1732280183776
+                                }
+                            ]
+                        },
+                        "ja-jp": {
+                            "name": "執着攻め"
+                        },
+                        "zh-cn": {
+                            "name": "执着攻",
+                            "history": [
+                                {
+                                    "name": "執着攻め",
+                                    "deprecatedAt": 1732280183769
+                                }
+                            ]
+                        }
+                    },
+                    "name": "執着攻め"
+                },
+                {
+                    "id": 526,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Pleasure Corruption",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "快楽堕ち"
+                        },
+                        "zh-cn": {
+                            "name": "沉迷快乐/快乐堕落",
+                            "history": [
+                                {
+                                    "name": "沉迷快乐",
+                                    "deprecatedAt": 1712218463249
+                                }
+                            ]
+                        }
+                    },
+                    "name": "沉迷快乐"
+                },
+                {
+                    "id": 10001,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "乙女向"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01110030",
+                    "edition_id": 17672,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01119877",
+                    "edition_id": 17672,
+                    "edition_type": "language",
+                    "display_order": 3
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01118123",
+                    "edition_id": 17672,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01118920",
+                    "edition_id": 17672,
+                    "edition_type": "language",
+                    "display_order": 7
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01219214",
+                    "edition_id": 17672,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": "RJ01110030",
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01118123",
+                "original_workno": "RJ01110030",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG68383,adl,female,SOU,OTM,SND,DLP,CHI_HANS,REV,CHI,521,191",
+            "age_category_string": "adult",
+            "duration": 6587,
+            "source_type": "DLSITE",
+            "source_id": "RJ01118124",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01118124.html",
+            "userRating": null,
+            "circle": {
+                "id": 68383,
+                "name": "来点乌贼吗",
+                "source_id": "RG68383",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1118124.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1118124.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1118124.jpg?type=main"
+        },
+        {
+            "id": 1109339,
+            "title": "耳舐め&耳ふーサンドイッチ 田舎の癒し ～山形県遊佐町音源～ 【耳恋なかさん&そよかぜみらいさん/安眠特化/環境音現地収録】",
+            "circle_id": 23954,
+            "name": "チームランドセル",
+            "nsfw": false,
+            "release": "2023-11-20",
+            "dl_count": 2554,
+            "price": 924,
+            "review_count": 5,
+            "rate_count": 608,
+            "rate_average_2dp": 4.82,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 19,
+                    "ratio": 3
+                },
+                {
+                    "review_point": 4,
+                    "count": 69,
+                    "ratio": 11
+                },
+                {
+                    "review_point": 5,
+                    "count": 519,
+                    "ratio": 85
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "all",
+                    "rank": 5,
+                    "rank_date": "2023-11-20"
+                },
+                {
+                    "term": "week",
+                    "category": "all",
+                    "rank": 23,
+                    "rank_date": "2023-11-26"
+                },
+                {
+                    "term": "month",
+                    "category": "all",
+                    "rank": 57,
+                    "rank_date": "2023-12-18"
+                },
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 2,
+                    "rank_date": "2023-11-20"
+                },
+                {
+                    "term": "week",
+                    "category": "voice",
+                    "rank": 12,
+                    "rank_date": "2023-11-26"
+                },
+                {
+                    "term": "month",
+                    "category": "voice",
+                    "rank": 33,
+                    "rank_date": "2023-12-05"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "ba82d4f1-fdf6-5a85-ab33-f5eb08b3398c",
+                    "name": "耳恋なか"
+                },
+                {
+                    "id": "fa23177c-5112-5199-b250-ebd61bf08aad",
+                    "name": "そよかぜみらい"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 268,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Sisters"
+                        },
+                        "ja-jp": {
+                            "name": "姉妹"
+                        },
+                        "zh-cn": {
+                            "name": "姐妹",
+                            "history": []
+                        }
+                    },
+                    "name": "姐妹"
+                },
+                {
+                    "id": 442,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Cleaning"
+                        },
+                        "ja-jp": {
+                            "name": "耳かき"
+                        },
+                        "zh-cn": {
+                            "name": "掏耳",
+                            "history": []
+                        }
+                    },
+                    "name": "掏耳"
+                },
+                {
+                    "id": 500,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Licking",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "耳舐め"
+                        },
+                        "zh-cn": {
+                            "name": "舔耳",
+                            "history": []
+                        }
+                    },
+                    "name": "舔耳"
+                },
+                {
+                    "id": 503,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Whispering"
+                        },
+                        "ja-jp": {
+                            "name": "ささやき"
+                        },
+                        "zh-cn": {
+                            "name": "低语",
+                            "history": []
+                        }
+                    },
+                    "name": "低语"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG23954,adl,male,SOU,JPN,SND,DLP,REV",
+            "age_category_string": "r15",
+            "duration": 21440,
+            "source_type": "DLSITE",
+            "source_id": "RJ01109339",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01109339.html",
+            "userRating": null,
+            "circle": {
+                "id": 23954,
+                "name": "チームランドセル",
+                "source_id": "RG23954",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1109339.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1109339.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1109339.jpg?type=main"
+        },
+        {
+            "id": 1101501,
+            "title": "【繁体中文版】雨粒とギャル。～JKギャルと雨粒音を聞きながらの濃密セックス～【フォーリーサウンド】",
+            "circle_id": 1000482,
+            "name": "御帆亭 亥玖",
+            "nsfw": true,
+            "release": "2023-10-20",
+            "dl_count": 122,
+            "price": 1100,
+            "review_count": 0,
+            "rate_count": 11,
+            "rate_average_2dp": 5,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 5,
+                    "count": 11,
+                    "ratio": 100
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "d91b45ea-d3e6-56be-bb4c-095663693be3",
+                    "name": "秋野かえで"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 64,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Fetish",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェチ"
+                        },
+                        "zh-cn": {
+                            "name": "癖好/性趣",
+                            "history": []
+                        }
+                    },
+                    "name": "癖好/性趣"
+                },
+                {
+                    "id": 65,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Breasts",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "おっぱい"
+                        },
+                        "zh-cn": {
+                            "name": "胸部/奶子",
+                            "history": []
+                        }
+                    },
+                    "name": "胸部/奶子"
+                },
+                {
+                    "id": 68,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Dirty Talk",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "淫語"
+                        },
+                        "zh-cn": {
+                            "name": "淫语",
+                            "history": []
+                        }
+                    },
+                    "name": "淫语"
+                },
+                {
+                    "id": 124,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Hand Job",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "手コキ"
+                        },
+                        "zh-cn": {
+                            "name": "手交",
+                            "history": []
+                        }
+                    },
+                    "name": "手交"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 138,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Blowjob / Fellatio",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェラチオ"
+                        },
+                        "zh-cn": {
+                            "name": "口交",
+                            "history": []
+                        }
+                    },
+                    "name": "口交"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ299519",
+                    "edition_id": 10605,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01026988",
+                    "edition_id": 10605,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01101500",
+                    "edition_id": 10605,
+                    "edition_type": "language",
+                    "display_order": 7
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01112114",
+                    "edition_id": 10605,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": "RJ299519",
+            "other_language_editions_in_db": [
+                {
+                    "id": 299519,
+                    "lang": "日本語",
+                    "title": "雨粒とギャル。～JKギャルと雨粒音を聞きながらの濃密セックス～【フォーリーサウンド】",
+                    "source_id": "RJ299519",
+                    "is_original": true,
+                    "source_type": "DLSITE"
+                }
+            ],
+            "translation_info": {
+                "lang": "CHI_HANT",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01101500",
+                "original_workno": "RJ299519",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG01000482,adl,male,SOU,SND,TRI,DLP,REV,CHI_HANT,CHI,497",
+            "age_category_string": "adult",
+            "duration": 6995,
+            "source_type": "DLSITE",
+            "source_id": "RJ01101501",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01101501.html",
+            "userRating": null,
+            "circle": {
+                "id": 1000482,
+                "name": "御帆亭 亥玖",
+                "source_id": "RG01000482",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1101501.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1101501.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1101501.jpg?type=main"
+        },
+        {
+            "id": 1094726,
+            "title": "【简体中文版】【※请细阅注意事项】被溺爱完美老公狂爱执着的故事",
+            "circle_id": 74342,
+            "name": "melon(特典全部會追加)",
+            "nsfw": true,
+            "release": "2023-09-21",
+            "dl_count": 2825,
+            "price": 880,
+            "review_count": 65,
+            "rate_count": 169,
+            "rate_average_2dp": 4.96,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 6,
+                    "ratio": 3
+                },
+                {
+                    "review_point": 5,
+                    "count": 163,
+                    "ratio": 96
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "b2439c2f-d809-52c1-99c0-ad7b2387b761",
+                    "name": "三橋渡"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 14,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovers"
+                        },
+                        "ja-jp": {
+                            "name": "恋人同士"
+                        },
+                        "zh-cn": {
+                            "name": "情侣",
+                            "history": []
+                        }
+                    },
+                    "name": "情侣"
+                },
+                {
+                    "id": 70,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Successive Orgasms",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "連続絶頂"
+                        },
+                        "zh-cn": {
+                            "name": "连续高潮",
+                            "history": []
+                        }
+                    },
+                    "name": "连续高潮"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 138,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Blowjob / Fellatio",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェラチオ"
+                        },
+                        "zh-cn": {
+                            "name": "口交",
+                            "history": []
+                        }
+                    },
+                    "name": "口交"
+                },
+                {
+                    "id": 140,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Sexual Training",
+                            "censored": "Discipline"
+                        },
+                        "ja-jp": {
+                            "name": "調教",
+                            "censored": "しつけ"
+                        },
+                        "zh-cn": {
+                            "name": "调教",
+                            "censored": "教育"
+                        }
+                    },
+                    "name": "调教"
+                },
+                {
+                    "id": 424,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Boss"
+                        },
+                        "ja-jp": {
+                            "name": "上司"
+                        },
+                        "zh-cn": {
+                            "name": "上司"
+                        }
+                    },
+                    "name": "上司"
+                },
+                {
+                    "id": 491,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "女性向"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 521,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Clingy (Dominant)",
+                            "history": [
+                                {
+                                    "name": "執着攻め",
+                                    "deprecatedAt": 1732280183776
+                                }
+                            ]
+                        },
+                        "ja-jp": {
+                            "name": "執着攻め"
+                        },
+                        "zh-cn": {
+                            "name": "执着攻",
+                            "history": [
+                                {
+                                    "name": "執着攻め",
+                                    "deprecatedAt": 1732280183769
+                                }
+                            ]
+                        }
+                    },
+                    "name": "執着攻め"
+                },
+                {
+                    "id": 10001,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "乙女向"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01076373",
+                    "edition_id": 15560,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01111460",
+                    "edition_id": 15560,
+                    "edition_type": "language",
+                    "display_order": 3
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01089295",
+                    "edition_id": 15560,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01092221",
+                    "edition_id": 15560,
+                    "edition_type": "language",
+                    "display_order": 7
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01107199",
+                    "edition_id": 15560,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": "RJ01076373",
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01089295",
+                "original_workno": "RJ01076373",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG74342,adl,female,SOU,OTM,SND,DLP,REV,CHI_HANS,CHI,521,424",
+            "age_category_string": "adult",
+            "duration": 4250,
+            "source_type": "DLSITE",
+            "source_id": "RJ01094726",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01094726.html",
+            "userRating": null,
+            "circle": {
+                "id": 74342,
+                "name": "melon(特典全部會追加)",
+                "source_id": "RG74342",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1094726.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1094726.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1094726.jpg?type=main"
+        },
+        {
+            "id": 1094013,
+            "title": "【简体中文版】关于NTR的二三事～心灵变得舒服的认真求爱H～",
+            "circle_id": 1007164,
+            "name": "A君沒有名字",
+            "nsfw": true,
+            "release": "2023-09-21",
+            "dl_count": 218,
+            "price": 1155,
+            "review_count": 22,
+            "rate_count": 32,
+            "rate_average_2dp": 5,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 5,
+                    "count": 32,
+                    "ratio": 100
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "3ceaca6d-7719-582d-8968-cb9e2ae47bf5",
+                    "name": "八神仙"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 48,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cuckoldry (Netorare)",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "寝取られ"
+                        },
+                        "zh-cn": {
+                            "name": "被NTR",
+                            "history": [
+                                {
+                                    "name": "被寝取/NTR",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "被寝取/NTR"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 144,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Verbal Humiliation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "言葉責め"
+                        },
+                        "zh-cn": {
+                            "name": "言语刺激",
+                            "history": [
+                                {
+                                    "name": "言语侵犯",
+                                    "deprecatedAt": 1712218463244
+                                }
+                            ]
+                        }
+                    },
+                    "name": "言语侵犯"
+                },
+                {
+                    "id": 440,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cheating / Adultery"
+                        },
+                        "ja-jp": {
+                            "name": "浮気"
+                        },
+                        "zh-cn": {
+                            "name": "出轨",
+                            "history": []
+                        }
+                    },
+                    "name": "出轨"
+                },
+                {
+                    "id": 491,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "女性向"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                },
+                {
+                    "id": 499,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cunnilingus",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "クンニ"
+                        },
+                        "zh-cn": {
+                            "name": "舔阴",
+                            "history": []
+                        }
+                    },
+                    "name": "舔阴"
+                },
+                {
+                    "id": 500,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Licking",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "耳舐め"
+                        },
+                        "zh-cn": {
+                            "name": "舔耳",
+                            "history": []
+                        }
+                    },
+                    "name": "舔耳"
+                },
+                {
+                    "id": 523,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Nipple Teasing",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "乳首責め"
+                        },
+                        "zh-cn": {
+                            "name": "乳头刺激",
+                            "history": []
+                        }
+                    },
+                    "name": "乳头刺激"
+                },
+                {
+                    "id": 10001,
+                    "i18n": {
+                        "en-us": {
+                            "name": null
+                        },
+                        "ja-jp": {
+                            "name": null
+                        },
+                        "zh-cn": {
+                            "name": null
+                        }
+                    },
+                    "name": "乙女向"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01084597",
+                    "edition_id": 15810,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01094705",
+                    "edition_id": 15810,
+                    "edition_type": "language",
+                    "display_order": 3
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01093237",
+                    "edition_id": 15810,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01093239",
+                    "edition_id": 15810,
+                    "edition_type": "language",
+                    "display_order": 7
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01095783",
+                    "edition_id": 15810,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": "RJ01084597",
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01093237",
+                "original_workno": "RJ01084597",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG01007164,adl,female,SOU,OTM,SND,DLP,REV,CHI_HANS,CHI,497",
+            "age_category_string": "adult",
+            "duration": 5930,
+            "source_type": "DLSITE",
+            "source_id": "RJ01094013",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01094013.html",
+            "userRating": null,
+            "circle": {
+                "id": 1007164,
+                "name": "A君沒有名字",
+                "source_id": "RG01007164",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1094013.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1094013.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1094013.jpg?type=main"
+        },
+        {
+            "id": 1092544,
+            "title": "【简体中文版】向内射OK的甜美修女献上精液！【拟声音效】",
+            "circle_id": 62463,
+            "name": "白鸽",
+            "nsfw": true,
+            "release": "2023-09-15",
+            "dl_count": 237,
+            "price": 1100,
+            "review_count": 1,
+            "rate_count": 13,
+            "rate_average_2dp": 4.92,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 1,
+                    "ratio": 7
+                },
+                {
+                    "review_point": 5,
+                    "count": 12,
+                    "ratio": 92
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "9157b7a8-5096-5c74-9186-16e5db9d825f",
+                    "name": "柚木つばめ"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 4,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovey Dovey / Sweet Love"
+                        },
+                        "ja-jp": {
+                            "name": "ラブラブ/あまあま"
+                        },
+                        "zh-cn": {
+                            "name": "亲热/甜蜜",
+                            "history": [
+                                {
+                                    "name": "纯爱/甜蜜",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "纯爱/甜蜜"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 96,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Sister / Nun"
+                        },
+                        "ja-jp": {
+                            "name": "シスター"
+                        },
+                        "zh-cn": {
+                            "name": "修女",
+                            "history": []
+                        }
+                    },
+                    "name": "修女"
+                },
+                {
+                    "id": 122,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Breast Sex",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "パイズリ"
+                        },
+                        "zh-cn": {
+                            "name": "乳交",
+                            "history": []
+                        }
+                    },
+                    "name": "乳交"
+                },
+                {
+                    "id": 124,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Hand Job",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "手コキ"
+                        },
+                        "zh-cn": {
+                            "name": "手交",
+                            "history": []
+                        }
+                    },
+                    "name": "手交"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 138,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Blowjob / Fellatio",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェラチオ"
+                        },
+                        "zh-cn": {
+                            "name": "口交",
+                            "history": []
+                        }
+                    },
+                    "name": "口交"
+                },
+                {
+                    "id": 160,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Anal",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "アナル"
+                        },
+                        "zh-cn": {
+                            "name": "肛交",
+                            "history": []
+                        }
+                    },
+                    "name": "肛交"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ431141",
+                    "edition_id": 10184,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01021152",
+                    "edition_id": 10184,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01021154",
+                    "edition_id": 10184,
+                    "edition_type": "language",
+                    "display_order": 7
+                }
+            ],
+            "original_workno": "RJ431141",
+            "other_language_editions_in_db": [
+                {
+                    "id": 431141,
+                    "lang": "日本語",
+                    "title": "中出しOKな甘々シスターさんにザーメンを!【フォーリーサウンド】",
+                    "source_id": "RJ431141",
+                    "is_original": true,
+                    "source_type": "DLSITE"
+                }
+            ],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01021152",
+                "original_workno": "RJ431141",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG62463,adl,male,SOU,SND,TRI,DLP,REV,CHI_HANS,CHI",
+            "age_category_string": "adult",
+            "duration": 7450,
+            "source_type": "DLSITE",
+            "source_id": "RJ01092544",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01092544.html",
+            "userRating": null,
+            "circle": {
+                "id": 62463,
+                "name": "白鸽",
+                "source_id": "RG62463",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1092544.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1092544.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1092544.jpg?type=main"
+        },
+        {
+            "id": 1088844,
+            "title": "病み病みゆかちとの共依存性活【1トラック全編無料公開♪】",
+            "circle_id": 53203,
+            "name": "ふわとろ☆ギャラクシー",
+            "nsfw": true,
+            "release": "2023-08-26",
+            "dl_count": 549,
+            "price": 660,
+            "review_count": 1,
+            "rate_count": 132,
+            "rate_average_2dp": 4.86,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 3,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 4,
+                    "count": 13,
+                    "ratio": 9
+                },
+                {
+                    "review_point": 5,
+                    "count": 116,
+                    "ratio": 87
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "134b3358-715e-581c-beee-bca0d9475e56",
+                    "name": "涼花みなせ"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 59,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Tsundere"
+                        },
+                        "ja-jp": {
+                            "name": "ツンデレ"
+                        },
+                        "zh-cn": {
+                            "name": "傲娇",
+                            "history": []
+                        }
+                    },
+                    "name": "傲娇"
+                },
+                {
+                    "id": 138,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Blowjob / Fellatio",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェラチオ"
+                        },
+                        "zh-cn": {
+                            "name": "口交",
+                            "history": []
+                        }
+                    },
+                    "name": "口交"
+                },
+                {
+                    "id": 144,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Verbal Humiliation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "言葉責め"
+                        },
+                        "zh-cn": {
+                            "name": "言语刺激",
+                            "history": [
+                                {
+                                    "name": "言语侵犯",
+                                    "deprecatedAt": 1712218463244
+                                }
+                            ]
+                        }
+                    },
+                    "name": "言语侵犯"
+                },
+                {
+                    "id": 265,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Drugs",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "薬物"
+                        },
+                        "zh-cn": {
+                            "name": "药物",
+                            "history": []
+                        }
+                    },
+                    "name": "药物"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                },
+                {
+                    "id": 500,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Licking",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "耳舐め"
+                        },
+                        "zh-cn": {
+                            "name": "舔耳",
+                            "history": []
+                        }
+                    },
+                    "name": "舔耳"
+                },
+                {
+                    "id": 523,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Nipple Teasing",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "乳首責め"
+                        },
+                        "zh-cn": {
+                            "name": "乳头刺激",
+                            "history": []
+                        }
+                    },
+                    "name": "乳头刺激"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": true,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 50
+            },
+            "work_attributes": "RG53203,adl,male,SOU,SND,TRI,JPN,DLP,REV,497",
+            "age_category_string": "adult",
+            "duration": 11823,
+            "source_type": "DLSITE",
+            "source_id": "RJ01088844",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01088844.html",
+            "userRating": null,
+            "circle": {
+                "id": 53203,
+                "name": "ふわとろ☆ギャラクシー",
+                "source_id": "RG53203",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1088844.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1088844.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1088844.jpg?type=main"
+        },
+        {
+            "id": 1087335,
+            "title": "懐いていた近所のメスガキに乳首オナニーを見られた俺は彼女に逆らえない",
+            "circle_id": 16132,
+            "name": "MayThird",
+            "nsfw": true,
+            "release": "2023-08-20",
+            "dl_count": 608,
+            "price": 385,
+            "review_count": 1,
+            "rate_count": 140,
+            "rate_average_2dp": 4.55,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 5,
+                    "ratio": 3
+                },
+                {
+                    "review_point": 3,
+                    "count": 10,
+                    "ratio": 7
+                },
+                {
+                    "review_point": 4,
+                    "count": 24,
+                    "ratio": 17
+                },
+                {
+                    "review_point": 5,
+                    "count": 100,
+                    "ratio": 71
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "e50dd05d-f183-576c-b39b-0312da4096cc",
+                    "name": "天音羽乃"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 135,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Masturbation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "オナニー"
+                        },
+                        "zh-cn": {
+                            "name": "自慰",
+                            "history": []
+                        }
+                    },
+                    "name": "自慰"
+                },
+                {
+                    "id": 144,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Verbal Humiliation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "言葉責め"
+                        },
+                        "zh-cn": {
+                            "name": "言语刺激",
+                            "history": [
+                                {
+                                    "name": "言语侵犯",
+                                    "deprecatedAt": 1712218463244
+                                }
+                            ]
+                        }
+                    },
+                    "name": "言语侵犯"
+                },
+                {
+                    "id": 149,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Shame / Humiliation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "羞恥/恥辱"
+                        },
+                        "zh-cn": {
+                            "name": "羞耻/耻辱",
+                            "history": []
+                        }
+                    },
+                    "name": "羞耻/耻辱"
+                },
+                {
+                    "id": 185,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Nipples / Areola",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "乳首/乳輪"
+                        },
+                        "zh-cn": {
+                            "name": "乳头/乳晕",
+                            "history": []
+                        }
+                    },
+                    "name": "乳头/乳晕"
+                },
+                {
+                    "id": 433,
+                    "i18n": {
+                        "en-us": {
+                            "name": "No Reverse",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "逆転無し"
+                        },
+                        "zh-cn": {
+                            "name": "无逆转",
+                            "history": []
+                        }
+                    },
+                    "name": "无逆转"
+                },
+                {
+                    "id": 514,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Guided Masturbation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "オナサポ"
+                        },
+                        "zh-cn": {
+                            "name": "辅助自慰",
+                            "history": [
+                                {
+                                    "name": "自慰帮手",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "自慰帮手"
+                },
+                {
+                    "id": 525,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Mesugaki",
+                            "censored": "MSGK"
+                        },
+                        "ja-jp": {
+                            "name": "メスガキ",
+                            "censored": "ざぁ～こ♡"
+                        },
+                        "zh-cn": {
+                            "name": "雌小鬼",
+                            "censored": "雌小鬼"
+                        }
+                    },
+                    "name": "雌小鬼"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG16132,adl,male,SOU,JPN,SND,TRI,DLP,REV",
+            "age_category_string": "adult",
+            "duration": 6431,
+            "source_type": "DLSITE",
+            "source_id": "RJ01087335",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01087335.html",
+            "userRating": null,
+            "circle": {
+                "id": 16132,
+                "name": "MayThird",
+                "source_id": "RG16132",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1087335.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1087335.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1087335.jpg?type=main"
+        },
+        {
+            "id": 1068516,
+            "title": "【简体中文版】漫咖JK～为了不让旁边的人听到的全程耳语贴身H～【立体声效】",
+            "circle_id": 67149,
+            "name": "陽だまりの奇跡",
+            "nsfw": true,
+            "release": "2023-08-19",
+            "dl_count": 878,
+            "price": 1100,
+            "review_count": 3,
+            "rate_count": 51,
+            "rate_average_2dp": 5,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 5,
+                    "count": 51,
+                    "ratio": 100
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "9157b7a8-5096-5c74-9186-16e5db9d825f",
+                    "name": "柚木つばめ"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 4,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovey Dovey / Sweet Love"
+                        },
+                        "ja-jp": {
+                            "name": "ラブラブ/あまあま"
+                        },
+                        "zh-cn": {
+                            "name": "亲热/甜蜜",
+                            "history": [
+                                {
+                                    "name": "纯爱/甜蜜",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "纯爱/甜蜜"
+                },
+                {
+                    "id": 51,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Moe"
+                        },
+                        "ja-jp": {
+                            "name": "萌え"
+                        },
+                        "zh-cn": {
+                            "name": "萌",
+                            "history": []
+                        }
+                    },
+                    "name": "萌"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 64,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Fetish",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェチ"
+                        },
+                        "zh-cn": {
+                            "name": "癖好/性趣",
+                            "history": []
+                        }
+                    },
+                    "name": "癖好/性趣"
+                },
+                {
+                    "id": 65,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Breasts",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "おっぱい"
+                        },
+                        "zh-cn": {
+                            "name": "胸部/奶子",
+                            "history": []
+                        }
+                    },
+                    "name": "胸部/奶子"
+                },
+                {
+                    "id": 68,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Dirty Talk",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "淫語"
+                        },
+                        "zh-cn": {
+                            "name": "淫语",
+                            "history": []
+                        }
+                    },
+                    "name": "淫语"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ300204",
+                    "edition_id": 10119,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01110979",
+                    "edition_id": 10119,
+                    "edition_type": "language",
+                    "display_order": 3
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01020375",
+                    "edition_id": 10119,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01071325",
+                    "edition_id": 10119,
+                    "edition_type": "language",
+                    "display_order": 7
+                },
+                {
+                    "lang": "KO_KR",
+                    "label": "韓国語",
+                    "workno": "RJ01041160",
+                    "edition_id": 10119,
+                    "edition_type": "language",
+                    "display_order": 9
+                }
+            ],
+            "original_workno": "RJ300204",
+            "other_language_editions_in_db": [
+                {
+                    "id": 300204,
+                    "lang": "日本語",
+                    "title": "【日文版】漫咖JK～为了不让旁边的人听到的全程耳语贴身H～【仿真音效】",
+                    "source_id": "RJ300204",
+                    "is_original": true,
+                    "source_type": "DLSITE"
+                }
+            ],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01020375",
+                "original_workno": "RJ300204",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG67149,adl,male,SOU,SND,DLP,REV,TRI,CHI_HANS,CHI,497",
+            "age_category_string": "adult",
+            "duration": 9684,
+            "source_type": "DLSITE",
+            "source_id": "RJ01068516",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01068516.html",
+            "userRating": null,
+            "circle": {
+                "id": 67149,
+                "name": "陽だまりの奇跡",
+                "source_id": "RG67149",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1068516.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1068516.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1068516.jpg?type=main"
+        },
+        {
+            "id": 1082039,
+            "title": "Maid in Paradise! ~ Lazing around with the Gal Maid ~ (楽園のメイド! ～ギャルメイドに癒やされ過ごす～) 【日本語字幕付き・英語音声】",
+            "circle_id": 58315,
+            "name": "Tea Time",
+            "nsfw": true,
+            "release": "2023-08-02",
+            "dl_count": 640,
+            "price": 660,
+            "review_count": 2,
+            "rate_count": 77,
+            "rate_average_2dp": 4.92,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 1,
+                    "ratio": 1
+                },
+                {
+                    "review_point": 4,
+                    "count": 4,
+                    "ratio": 5
+                },
+                {
+                    "review_point": 5,
+                    "count": 72,
+                    "ratio": 93
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "83464d50-bf63-5e54-b201-5e8de5651cc0",
+                    "name": "Sultry Lamp"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 4,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Lovey Dovey / Sweet Love"
+                        },
+                        "ja-jp": {
+                            "name": "ラブラブ/あまあま"
+                        },
+                        "zh-cn": {
+                            "name": "亲热/甜蜜",
+                            "history": [
+                                {
+                                    "name": "纯爱/甜蜜",
+                                    "deprecatedAt": 1712218463248
+                                }
+                            ]
+                        }
+                    },
+                    "name": "纯爱/甜蜜"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 58,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Totally Happy"
+                        },
+                        "ja-jp": {
+                            "name": "オールハッピー"
+                        },
+                        "zh-cn": {
+                            "name": "皆大欢喜",
+                            "history": []
+                        }
+                    },
+                    "name": "皆大欢喜"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 415,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Gal"
+                        },
+                        "ja-jp": {
+                            "name": "ギャル"
+                        },
+                        "zh-cn": {
+                            "name": "辣妹",
+                            "history": []
+                        }
+                    },
+                    "name": "辣妹"
+                },
+                {
+                    "id": 489,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cum Swallowing",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "ごっくん/食ザー"
+                        },
+                        "zh-cn": {
+                            "name": "吞精",
+                            "history": []
+                        }
+                    },
+                    "name": "吞精"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                },
+                {
+                    "id": 499,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cunnilingus",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "クンニ"
+                        },
+                        "zh-cn": {
+                            "name": "舔阴",
+                            "history": []
+                        }
+                    },
+                    "name": "舔阴"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 20
+            },
+            "work_attributes": "RG58315,adl,male,SOU,SND,ENG,JPN,DLP,REV,497",
+            "age_category_string": "adult",
+            "duration": 7315,
+            "source_type": "DLSITE",
+            "source_id": "RJ01082039",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01082039.html",
+            "userRating": null,
+            "circle": {
+                "id": 58315,
+                "name": "Tea Time",
+                "source_id": "RG58315",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1082039.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1082039.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1082039.jpg?type=main"
+        },
+        {
+            "id": 1060518,
+            "title": "【简体中文版】【让人被睡】亲密度100%毒舌后辈的被睡报告~表里ver~",
+            "circle_id": 75148,
+            "name": "【勇气的契约Lv.1:M1·C】",
+            "nsfw": true,
+            "release": "2023-08-02",
+            "dl_count": 461,
+            "price": 990,
+            "review_count": 0,
+            "rate_count": 35,
+            "rate_average_2dp": 4.71,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 1,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 4,
+                    "count": 4,
+                    "ratio": 11
+                },
+                {
+                    "review_point": 5,
+                    "count": 29,
+                    "ratio": 82
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "2ff8ffed-8803-5605-9cc4-507832f61506",
+                    "name": "杏仁らいち"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 48,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cuckoldry (Netorare)",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "寝取られ"
+                        },
+                        "zh-cn": {
+                            "name": "被NTR",
+                            "history": [
+                                {
+                                    "name": "被寝取/NTR",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "被寝取/NTR"
+                },
+                {
+                    "id": 124,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Hand Job",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "手コキ"
+                        },
+                        "zh-cn": {
+                            "name": "手交",
+                            "history": []
+                        }
+                    },
+                    "name": "手交"
+                },
+                {
+                    "id": 290,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cool Attitude (Dominant)",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "クール攻め"
+                        },
+                        "zh-cn": {
+                            "name": "高冷攻",
+                            "history": []
+                        }
+                    },
+                    "name": "高冷攻"
+                },
+                {
+                    "id": 302,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cuckoldry (Netori)",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "寝取り"
+                        },
+                        "zh-cn": {
+                            "name": "NTR/寝取",
+                            "history": [
+                                {
+                                    "name": "寝取",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "寝取"
+                },
+                {
+                    "id": 440,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cheating / Adultery"
+                        },
+                        "ja-jp": {
+                            "name": "浮気"
+                        },
+                        "zh-cn": {
+                            "name": "出轨",
+                            "history": []
+                        }
+                    },
+                    "name": "出轨"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ439075",
+                    "edition_id": 8681,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01004463",
+                    "edition_id": 8681,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01002203",
+                    "edition_id": 8681,
+                    "edition_type": "language",
+                    "display_order": 7
+                }
+            ],
+            "original_workno": "RJ439075",
+            "other_language_editions_in_db": [
+                {
+                    "id": 439075,
+                    "lang": "日本語",
+                    "title": "【ネトラセ】親愛度100%毒舌後輩の寝取られ報告~裏表ver~",
+                    "source_id": "RJ439075",
+                    "is_original": true,
+                    "source_type": "DLSITE"
+                }
+            ],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01004463",
+                "original_workno": "RJ439075",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG75148,adl,male,SOU,SND,DLP,REV,CHI_HANS,CHI,497",
+            "age_category_string": "adult",
+            "duration": 6060,
+            "source_type": "DLSITE",
+            "source_id": "RJ01060518",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01060518.html",
+            "userRating": null,
+            "circle": {
+                "id": 75148,
+                "name": "【勇气的契约Lv.1:M1·C】",
+                "source_id": "RG75148",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1060518.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1060518.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1060518.jpg?type=main"
+        },
+        {
+            "id": 1080844,
+            "title": "【シャンプー・泡風呂・耳かき】おしごとねいろ ～バスグッズ店員編～【CV.南條愛乃】",
+            "circle_id": 53557,
+            "name": "kotoneiro",
+            "nsfw": false,
+            "release": "2023-07-28",
+            "dl_count": 3054,
+            "price": 1980,
+            "review_count": 12,
+            "rate_count": 610,
+            "rate_average_2dp": 4.85,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 2,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 17,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 4,
+                    "count": 45,
+                    "ratio": 7
+                },
+                {
+                    "review_point": 5,
+                    "count": 545,
+                    "ratio": 89
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "all",
+                    "rank": 6,
+                    "rank_date": "2023-07-28"
+                },
+                {
+                    "term": "week",
+                    "category": "all",
+                    "rank": 13,
+                    "rank_date": "2023-08-04"
+                },
+                {
+                    "term": "month",
+                    "category": "all",
+                    "rank": 35,
+                    "rank_date": "2023-08-13"
+                },
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 4,
+                    "rank_date": "2023-07-28"
+                },
+                {
+                    "term": "week",
+                    "category": "voice",
+                    "rank": 8,
+                    "rank_date": "2023-08-02"
+                },
+                {
+                    "term": "month",
+                    "category": "voice",
+                    "rank": 15,
+                    "rank_date": "2023-08-24"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "4fdc3d5b-13ed-58af-a76c-380d0adfe29d",
+                    "name": "南條愛乃"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 53,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Wholesome",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "健全"
+                        },
+                        "zh-cn": {
+                            "name": "健全"
+                        }
+                    },
+                    "name": "健全"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG53557,male,SOU,JPN,SND,DLP,REV,497,053",
+            "age_category_string": "general",
+            "duration": 6423,
+            "source_type": "DLSITE",
+            "source_id": "RJ01080844",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01080844.html",
+            "userRating": null,
+            "circle": {
+                "id": 53557,
+                "name": "kotoneiro",
+                "source_id": "RG53557",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1080844.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1080844.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1080844.jpg?type=main"
+        },
+        {
+            "id": 1068382,
+            "title": "ボイスドラマ『戦巫女ミズキ後日譚』―仇を討って最愛の幼馴染みと結ばれた最強巫女が浮気チン〇に堕とされる汚話―",
+            "circle_id": 46361,
+            "name": "東京妖異研究所",
+            "nsfw": true,
+            "release": "2023-07-14",
+            "dl_count": 302,
+            "price": 1188,
+            "review_count": 0,
+            "rate_count": 97,
+            "rate_average_2dp": 4.65,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 1
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 8,
+                    "ratio": 8
+                },
+                {
+                    "review_point": 4,
+                    "count": 14,
+                    "ratio": 14
+                },
+                {
+                    "review_point": 5,
+                    "count": 74,
+                    "ratio": 76
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "e363b8e6-bf7e-50b1-b170-942b72c1c747",
+                    "name": "kokko"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 17,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Epic / Historical"
+                        },
+                        "ja-jp": {
+                            "name": "歴史/時代物"
+                        },
+                        "zh-cn": {
+                            "name": "历史/古风/古代",
+                            "history": [
+                                {
+                                    "name": "历史/时代物",
+                                    "deprecatedAt": 1712218463245
+                                }
+                            ]
+                        }
+                    },
+                    "name": "历史/时代物"
+                },
+                {
+                    "id": 48,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cuckoldry (Netorare)",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "寝取られ"
+                        },
+                        "zh-cn": {
+                            "name": "被NTR",
+                            "history": [
+                                {
+                                    "name": "被寝取/NTR",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "被寝取/NTR"
+                },
+                {
+                    "id": 80,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Shrine Maiden"
+                        },
+                        "ja-jp": {
+                            "name": "巫女"
+                        },
+                        "zh-cn": {
+                            "name": "巫女"
+                        }
+                    },
+                    "name": "巫女"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 149,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Shame / Humiliation",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "羞恥/恥辱"
+                        },
+                        "zh-cn": {
+                            "name": "羞耻/耻辱",
+                            "history": []
+                        }
+                    },
+                    "name": "羞耻/耻辱"
+                },
+                {
+                    "id": 182,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Big Breasts",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "巨乳/爆乳"
+                        },
+                        "zh-cn": {
+                            "name": "巨乳/爆乳"
+                        }
+                    },
+                    "name": "巨乳/爆乳"
+                },
+                {
+                    "id": 323,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ahegao / Gapeface",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "アヘ顔"
+                        },
+                        "zh-cn": {
+                            "name": "高潮脸/阿黑颜",
+                            "history": [
+                                {
+                                    "name": "啊嘿颜",
+                                    "deprecatedAt": 1712218463249
+                                }
+                            ]
+                        }
+                    },
+                    "name": "啊嘿颜"
+                },
+                {
+                    "id": 440,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Cheating / Adultery"
+                        },
+                        "ja-jp": {
+                            "name": "浮気"
+                        },
+                        "zh-cn": {
+                            "name": "出轨",
+                            "history": []
+                        }
+                    },
+                    "name": "出轨"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG46361,adl,male,SOU,SND,JPN,DLP,080,182",
+            "age_category_string": "adult",
+            "duration": 2132,
+            "source_type": "DLSITE",
+            "source_id": "RJ01068382",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01068382.html",
+            "userRating": null,
+            "circle": {
+                "id": 46361,
+                "name": "東京妖異研究所",
+                "source_id": "RG46361",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1068382.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1068382.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1068382.jpg?type=main"
+        },
+        {
+            "id": 1071889,
+            "title": "【フォーリーサウンド】パパ活したら生徒が来た～高飛車金髪ツインテお嬢様の場合～",
+            "circle_id": 57194,
+            "name": "アンテロス",
+            "nsfw": true,
+            "release": "2023-06-30",
+            "dl_count": 410,
+            "price": 1320,
+            "review_count": 0,
+            "rate_count": 93,
+            "rate_average_2dp": 4.72,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 7,
+                    "ratio": 7
+                },
+                {
+                    "review_point": 4,
+                    "count": 12,
+                    "ratio": 12
+                },
+                {
+                    "review_point": 5,
+                    "count": 74,
+                    "ratio": 79
+                }
+            ],
+            "rank": null,
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "cd397034-0746-5572-b251-b8f8a22823ea",
+                    "name": "御子柴泉"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "i18n": {
+                        "en-us": {
+                            "name": "School / Academy"
+                        },
+                        "ja-jp": {
+                            "name": "学校/学園"
+                        },
+                        "zh-cn": {
+                            "name": "学校/学园",
+                            "history": []
+                        }
+                    },
+                    "name": "学校/学园"
+                },
+                {
+                    "id": 2,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Office / Workplace"
+                        },
+                        "ja-jp": {
+                            "name": "オフィス/職場"
+                        },
+                        "zh-cn": {
+                            "name": "办公室/职场",
+                            "history": []
+                        }
+                    },
+                    "name": "办公室/职场"
+                },
+                {
+                    "id": 113,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Rape",
+                            "censored": "Dub-con"
+                        },
+                        "ja-jp": {
+                            "name": "レイプ",
+                            "censored": "合意なし"
+                        },
+                        "zh-cn": {
+                            "name": "强奸",
+                            "censored": "强X"
+                        }
+                    },
+                    "name": "强奸"
+                },
+                {
+                    "id": 114,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Coercion / Compulsion",
+                            "censored": "Ordered / Compelled"
+                        },
+                        "ja-jp": {
+                            "name": "強制/無理矢理",
+                            "censored": "命令/無理矢理"
+                        },
+                        "zh-cn": {
+                            "name": "强制/硬上",
+                            "censored": "强行"
+                        }
+                    },
+                    "name": "强制/硬上"
+                },
+                {
+                    "id": 134,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Violation",
+                            "censored": "Violation"
+                        },
+                        "ja-jp": {
+                            "name": "陵辱",
+                            "censored": "屈辱"
+                        },
+                        "zh-cn": {
+                            "name": "凌辱",
+                            "censored": "羞辱"
+                        }
+                    },
+                    "name": "凌辱"
+                },
+                {
+                    "id": 140,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Sexual Training",
+                            "censored": "Discipline"
+                        },
+                        "ja-jp": {
+                            "name": "調教",
+                            "censored": "しつけ"
+                        },
+                        "zh-cn": {
+                            "name": "调教",
+                            "censored": "教育"
+                        }
+                    },
+                    "name": "调教"
+                },
+                {
+                    "id": 147,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Slave",
+                            "censored": "Servant"
+                        },
+                        "ja-jp": {
+                            "name": "奴隷",
+                            "censored": "下僕"
+                        },
+                        "zh-cn": {
+                            "name": "奴隶",
+                            "censored": "奴仆"
+                        }
+                    },
+                    "name": "奴隶"
+                },
+                {
+                    "id": 154,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Fiendish / Brutal",
+                            "censored": "Very Mean"
+                        },
+                        "ja-jp": {
+                            "name": "鬼畜",
+                            "censored": "超ひどい"
+                        },
+                        "zh-cn": {
+                            "name": "鬼畜",
+                            "censored": "造孽"
+                        }
+                    },
+                    "name": "鬼畜"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG57194,adl,male,SOU,JPN,SND,DLP,154",
+            "age_category_string": "adult",
+            "duration": 4559,
+            "source_type": "DLSITE",
+            "source_id": "RJ01071889",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01071889.html",
+            "userRating": null,
+            "circle": {
+                "id": 57194,
+                "name": "アンテロス",
+                "source_id": "RG57194",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1071889.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1071889.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1071889.jpg?type=main"
+        },
+        {
+            "id": 1067967,
+            "title": "隣の席のマイペースダウナーJKと交尾セックスしまくる日常2",
+            "circle_id": 48131,
+            "name": "スマート挿入",
+            "nsfw": true,
+            "release": "2023-06-30",
+            "dl_count": 4361,
+            "price": 1320,
+            "review_count": 7,
+            "rate_count": 1088,
+            "rate_average_2dp": 4.89,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 3,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 15,
+                    "ratio": 1
+                },
+                {
+                    "review_point": 4,
+                    "count": 79,
+                    "ratio": 7
+                },
+                {
+                    "review_point": 5,
+                    "count": 990,
+                    "ratio": 90
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "all",
+                    "rank": 3,
+                    "rank_date": "2023-06-30"
+                },
+                {
+                    "term": "week",
+                    "category": "all",
+                    "rank": 8,
+                    "rank_date": "2023-07-04"
+                },
+                {
+                    "term": "month",
+                    "category": "all",
+                    "rank": 21,
+                    "rank_date": "2023-07-18"
+                },
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 2,
+                    "rank_date": "2023-06-30"
+                },
+                {
+                    "term": "week",
+                    "category": "voice",
+                    "rank": 4,
+                    "rank_date": "2023-07-04"
+                },
+                {
+                    "term": "month",
+                    "category": "voice",
+                    "rank": 16,
+                    "rank_date": "2023-07-18"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "71b7f585-7117-55a8-b9c2-736852a83a73",
+                    "name": "陽向葵ゅか"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 1,
+                    "i18n": {
+                        "en-us": {
+                            "name": "School / Academy"
+                        },
+                        "ja-jp": {
+                            "name": "学校/学園"
+                        },
+                        "zh-cn": {
+                            "name": "学校/学园",
+                            "history": []
+                        }
+                    },
+                    "name": "学校/学园"
+                },
+                {
+                    "id": 3,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Outdoor"
+                        },
+                        "ja-jp": {
+                            "name": "屋外"
+                        },
+                        "zh-cn": {
+                            "name": "室外",
+                            "history": [
+                                {
+                                    "name": "屋外",
+                                    "deprecatedAt": 1712218463249
+                                }
+                            ]
+                        }
+                    },
+                    "name": "屋外"
+                },
+                {
+                    "id": 65,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Breasts",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "おっぱい"
+                        },
+                        "zh-cn": {
+                            "name": "胸部/奶子",
+                            "history": []
+                        }
+                    },
+                    "name": "胸部/奶子"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 400,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Student"
+                        },
+                        "ja-jp": {
+                            "name": "学生"
+                        },
+                        "zh-cn": {
+                            "name": "学生"
+                        }
+                    },
+                    "name": "学生"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 500,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Licking",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "耳舐め"
+                        },
+                        "zh-cn": {
+                            "name": "舔耳",
+                            "history": []
+                        }
+                    },
+                    "name": "舔耳"
+                },
+                {
+                    "id": 503,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Whispering"
+                        },
+                        "ja-jp": {
+                            "name": "ささやき"
+                        },
+                        "zh-cn": {
+                            "name": "低语",
+                            "history": []
+                        }
+                    },
+                    "name": "低语"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": true,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 80
+            },
+            "work_attributes": "RG48131,adl,male,SOU,SND,TRI,JPN,DLP,REV,400",
+            "age_category_string": "adult",
+            "duration": 6074,
+            "source_type": "DLSITE",
+            "source_id": "RJ01067967",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01067967.html",
+            "userRating": null,
+            "circle": {
+                "id": 48131,
+                "name": "スマート挿入",
+                "source_id": "RG48131",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1067967.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1067967.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1067967.jpg?type=main"
+        },
+        {
+            "id": 1067083,
+            "title": "【添い寝・耳かき・シャンプー】従姉妹で水泳部の女の子に振りまわされる一日【CV.高野麻里佳/ユメミドリーマー】",
+            "circle_id": 70762,
+            "name": "工画堂スタジオ",
+            "nsfw": false,
+            "release": "2023-06-30",
+            "dl_count": 1491,
+            "price": 792,
+            "review_count": 29,
+            "rate_count": 299,
+            "rate_average_2dp": 4.87,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 8,
+                    "ratio": 2
+                },
+                {
+                    "review_point": 4,
+                    "count": 24,
+                    "ratio": 8
+                },
+                {
+                    "review_point": 5,
+                    "count": 267,
+                    "ratio": 89
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "all",
+                    "rank": 11,
+                    "rank_date": "2023-06-30"
+                },
+                {
+                    "term": "week",
+                    "category": "all",
+                    "rank": 44,
+                    "rank_date": "2023-07-06"
+                },
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 5,
+                    "rank_date": "2023-06-30"
+                },
+                {
+                    "term": "week",
+                    "category": "voice",
+                    "rank": 22,
+                    "rank_date": "2023-07-06"
+                },
+                {
+                    "term": "month",
+                    "category": "voice",
+                    "rank": 68,
+                    "rank_date": "2023-07-27"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "cb44bb23-2ffe-5bd7-b636-a2819498e734",
+                    "name": "高野麻里佳"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 8,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Slice of Life / Daily Living"
+                        },
+                        "ja-jp": {
+                            "name": "日常/生活"
+                        },
+                        "zh-cn": {
+                            "name": "日常/生活"
+                        }
+                    },
+                    "name": "日常/生活"
+                },
+                {
+                    "id": 13,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Heartwarming"
+                        },
+                        "ja-jp": {
+                            "name": "ほのぼの"
+                        },
+                        "zh-cn": {
+                            "name": "温馨",
+                            "history": []
+                        }
+                    },
+                    "name": "温馨"
+                },
+                {
+                    "id": 51,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Moe"
+                        },
+                        "ja-jp": {
+                            "name": "萌え"
+                        },
+                        "zh-cn": {
+                            "name": "萌",
+                            "history": []
+                        }
+                    },
+                    "name": "萌"
+                },
+                {
+                    "id": 53,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Wholesome",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "健全"
+                        },
+                        "zh-cn": {
+                            "name": "健全"
+                        }
+                    },
+                    "name": "健全"
+                },
+                {
+                    "id": 56,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Healing"
+                        },
+                        "ja-jp": {
+                            "name": "癒し"
+                        },
+                        "zh-cn": {
+                            "name": "治愈",
+                            "history": []
+                        }
+                    },
+                    "name": "治愈"
+                },
+                {
+                    "id": 442,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Ear Cleaning"
+                        },
+                        "ja-jp": {
+                            "name": "耳かき"
+                        },
+                        "zh-cn": {
+                            "name": "掏耳",
+                            "history": []
+                        }
+                    },
+                    "name": "掏耳"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG70762,male,SOU,SND,JPN,TRI,DLP,REV,497,008,053",
+            "age_category_string": "general",
+            "duration": 5037,
+            "source_type": "DLSITE",
+            "source_id": "RJ01067083",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01067083.html",
+            "userRating": null,
+            "circle": {
+                "id": 70762,
+                "name": "工画堂スタジオ",
+                "source_id": "RG70762",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1067083.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1067083.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1067083.jpg?type=main"
+        },
+        {
+            "id": 1057292,
+            "title": "【簡体中文版】【限定特典付】ちかんメスガキJ○ VS メスガキわからせおじさん",
+            "circle_id": 73637,
+            "name": "爱 来自咩咩",
+            "nsfw": true,
+            "release": "2023-05-24",
+            "dl_count": 229,
+            "price": 396,
+            "review_count": 0,
+            "rate_count": 21,
+            "rate_average_2dp": 5,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 4,
+                    "count": 0,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 5,
+                    "count": 21,
+                    "ratio": 100
+                }
+            ],
+            "rank": null,
+            "has_subtitle": true,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "9b7bc50e-dd95-5773-a7a0-3aa8884cb0ba",
+                    "name": "山田じぇみ子"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 124,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Hand Job",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "手コキ"
+                        },
+                        "zh-cn": {
+                            "name": "手交",
+                            "history": []
+                        }
+                    },
+                    "name": "手交"
+                },
+                {
+                    "id": 128,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Internal Cumshot",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "中出し"
+                        },
+                        "zh-cn": {
+                            "name": "内射/中出",
+                            "history": []
+                        }
+                    },
+                    "name": "内射/中出"
+                },
+                {
+                    "id": 138,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Blowjob / Fellatio",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フェラチオ"
+                        },
+                        "zh-cn": {
+                            "name": "口交",
+                            "history": []
+                        }
+                    },
+                    "name": "口交"
+                },
+                {
+                    "id": 207,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Loli",
+                            "censored": "Petite"
+                        },
+                        "ja-jp": {
+                            "name": "ロリ",
+                            "censored": "つるぺた"
+                        },
+                        "zh-cn": {
+                            "name": "萝莉",
+                            "censored": "萝"
+                        }
+                    },
+                    "name": "萝莉"
+                },
+                {
+                    "id": 416,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Bitch / Slut",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "ビッチ"
+                        },
+                        "zh-cn": {
+                            "name": "婊子",
+                            "history": []
+                        }
+                    },
+                    "name": "婊子"
+                },
+                {
+                    "id": 487,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Irrumatio",
+                            "history": [
+                                {
+                                    "name": "Forced Oral / Irrumatio",
+                                    "deprecatedAt": 1712218463250
+                                }
+                            ]
+                        },
+                        "ja-jp": {
+                            "name": "イラマチオ"
+                        },
+                        "zh-cn": {
+                            "name": "深喉口交（男主导）",
+                            "history": [
+                                {
+                                    "name": "深喉",
+                                    "deprecatedAt": 1712218463245
+                                }
+                            ]
+                        }
+                    },
+                    "name": "深喉"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 497,
+                    "i18n": {
+                        "en-us": {
+                            "name": "ASMR"
+                        },
+                        "ja-jp": {
+                            "name": "ASMR"
+                        },
+                        "zh-cn": {
+                            "name": "ASMR"
+                        }
+                    },
+                    "name": "ASMR"
+                }
+            ],
+            "language_editions": [
+                {
+                    "lang": "JPN",
+                    "label": "日本語",
+                    "workno": "RJ01049080",
+                    "edition_id": 12766,
+                    "edition_type": "language",
+                    "display_order": 1
+                },
+                {
+                    "lang": "ENG",
+                    "label": "英語",
+                    "workno": "RJ01065132",
+                    "edition_id": 12766,
+                    "edition_type": "language",
+                    "display_order": 3
+                },
+                {
+                    "lang": "CHI_HANS",
+                    "label": "簡体中文",
+                    "workno": "RJ01057291",
+                    "edition_id": 12766,
+                    "edition_type": "language",
+                    "display_order": 5
+                },
+                {
+                    "lang": "CHI_HANT",
+                    "label": "繁体中文",
+                    "workno": "RJ01239876",
+                    "edition_id": 12766,
+                    "edition_type": "language",
+                    "display_order": 7
+                }
+            ],
+            "original_workno": "RJ01049080",
+            "other_language_editions_in_db": [
+                {
+                    "id": 1049080,
+                    "lang": "日本語",
+                    "title": "【限定特典付】ちかんメスガキJ○ VS メスガキわからせおじさん",
+                    "source_id": "RJ01049080",
+                    "is_original": true,
+                    "source_type": "DLSITE"
+                }
+            ],
+            "translation_info": {
+                "lang": "CHI_HANS",
+                "is_child": true,
+                "is_parent": false,
+                "is_original": false,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": "RJ01057291",
+                "original_workno": "RJ01049080",
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG73637,adl,male,SOU,SND,TRI,DLP,CHI_HANS,CHI,497",
+            "age_category_string": "adult",
+            "duration": 5839,
+            "source_type": "DLSITE",
+            "source_id": "RJ01057292",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01057292.html",
+            "userRating": null,
+            "circle": {
+                "id": 73637,
+                "name": "爱 来自咩咩",
+                "source_id": "RG73637",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1057292.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1057292.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1057292.jpg?type=main"
+        },
+        {
+            "id": 1056013,
+            "title": "ふしんしゃのおねえさん ～ふわふわおねえさんの夜這い系初恋凌辱～【KU100】",
+            "circle_id": 45006,
+            "name": "できることなら",
+            "nsfw": true,
+            "release": "2023-05-13",
+            "dl_count": 1495,
+            "price": 550,
+            "review_count": 3,
+            "rate_count": 350,
+            "rate_average_2dp": 4.74,
+            "rate_count_detail": [
+                {
+                    "review_point": 1,
+                    "count": 1,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 2,
+                    "count": 3,
+                    "ratio": 0
+                },
+                {
+                    "review_point": 3,
+                    "count": 20,
+                    "ratio": 5
+                },
+                {
+                    "review_point": 4,
+                    "count": 38,
+                    "ratio": 10
+                },
+                {
+                    "review_point": 5,
+                    "count": 288,
+                    "ratio": 82
+                }
+            ],
+            "rank": [
+                {
+                    "term": "day",
+                    "category": "voice",
+                    "rank": 20,
+                    "rank_date": "2023-05-14"
+                }
+            ],
+            "has_subtitle": false,
+            "create_date": "2024-09-04",
+            "vas": [
+                {
+                    "id": "cd397034-0746-5572-b251-b8f8a22823ea",
+                    "name": "御子柴泉"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 68,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Dirty Talk",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "淫語"
+                        },
+                        "zh-cn": {
+                            "name": "淫语",
+                            "history": []
+                        }
+                    },
+                    "name": "淫语"
+                },
+                {
+                    "id": 114,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Coercion / Compulsion",
+                            "censored": "Ordered / Compelled"
+                        },
+                        "ja-jp": {
+                            "name": "強制/無理矢理",
+                            "censored": "命令/無理矢理"
+                        },
+                        "zh-cn": {
+                            "name": "强制/硬上",
+                            "censored": "强行"
+                        }
+                    },
+                    "name": "强制/硬上"
+                },
+                {
+                    "id": 160,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Anal",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "アナル"
+                        },
+                        "zh-cn": {
+                            "name": "肛交",
+                            "history": []
+                        }
+                    },
+                    "name": "肛交"
+                },
+                {
+                    "id": 190,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Futanari / Hermaphrodite",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "フタナリ"
+                        },
+                        "zh-cn": {
+                            "name": "扶她",
+                            "history": []
+                        }
+                    },
+                    "name": "扶她"
+                },
+                {
+                    "id": 220,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Oneesan / Older Girl / Older Sister"
+                        },
+                        "ja-jp": {
+                            "name": "お姉さん"
+                        },
+                        "zh-cn": {
+                            "name": "姐姐",
+                            "history": []
+                        }
+                    },
+                    "name": "姐姐"
+                },
+                {
+                    "id": 433,
+                    "i18n": {
+                        "en-us": {
+                            "name": "No Reverse",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "逆転無し"
+                        },
+                        "zh-cn": {
+                            "name": "无逆转",
+                            "history": []
+                        }
+                    },
+                    "name": "无逆转"
+                },
+                {
+                    "id": 496,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Binaural"
+                        },
+                        "ja-jp": {
+                            "name": "バイノーラル/ダミヘ"
+                        },
+                        "zh-cn": {
+                            "name": "双声道立体声/人头麦",
+                            "history": [
+                                {
+                                    "name": "环绕音",
+                                    "deprecatedAt": 1712218463247
+                                }
+                            ]
+                        }
+                    },
+                    "name": "环绕音"
+                },
+                {
+                    "id": 504,
+                    "i18n": {
+                        "en-us": {
+                            "name": "Elder Girl x Younger Boy",
+                            "history": []
+                        },
+                        "ja-jp": {
+                            "name": "おねショタ"
+                        },
+                        "zh-cn": {
+                            "name": "姐姐×正太",
+                            "history": [
+                                {
+                                    "name": "姐姐正太",
+                                    "deprecatedAt": 1712218463244
+                                }
+                            ]
+                        }
+                    },
+                    "name": "姐姐正太"
+                }
+            ],
+            "language_editions": [],
+            "original_workno": null,
+            "other_language_editions_in_db": [],
+            "translation_info": {
+                "lang": null,
+                "is_child": false,
+                "is_parent": false,
+                "is_original": true,
+                "is_volunteer": false,
+                "child_worknos": [],
+                "parent_workno": null,
+                "original_workno": null,
+                "is_translation_agree": false,
+                "translation_bonus_langs": [],
+                "is_translation_bonus_child": false,
+                "production_trade_price_rate": 0
+            },
+            "work_attributes": "RG45006,adl,male,SOU,SND,TRI,JPN,DLP,REV",
+            "age_category_string": "adult",
+            "duration": 7877,
+            "source_type": "DLSITE",
+            "source_id": "RJ01056013",
+            "source_url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01056013.html",
+            "userRating": null,
+            "circle": {
+                "id": 45006,
+                "name": "できることなら",
+                "source_id": "RG45006",
+                "source_type": "DLSITE"
+            },
+            "samCoverUrl": "https://api.asmr-200.com/api/cover/1056013.jpg?type=sam",
+            "thumbnailCoverUrl": "https://api.asmr-200.com/api/cover/1056013.jpg?type=240x240",
+            "mainCoverUrl": "https://api.asmr-200.com/api/cover/1056013.jpg?type=main"
+        }
+    ],
+    "pagination": {
+        "currentPage": 243,
+        "pageSize": 20,
+        "totalCount": 52507
+    }
+}

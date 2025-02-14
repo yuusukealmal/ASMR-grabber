@@ -1,0 +1,10 @@
+__pycache__/
+
+test.py
+
+RJ[0-9]*
+.env
+
+*.log
+
+*.swp

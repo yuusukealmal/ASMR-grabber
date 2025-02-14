@@ -16,12 +16,22 @@ URLS = [
 
 async def update():
     if requests.get(BASE + "health").text == "OK":
-        asmr  = ASMR(os.environ.get("USERNAME"), os.environ.get("PASSWORD"))
+        asmr  = ASMR(os.environ.get("NAME"), os.environ.get("PASSWORD"))
         await asmr.get_token()
         for url, method, name in URLS:
-            r = await asmr.request(url= BASE + url, method= method, json={"userId": asmr.uuid} if url == "recommender/recommend-for-user" else {})
-            with open(f"./RJS/{name}.json", "w", encoding="utf-8") as f:
-                json.dump(r.json(), f, indent=4, ensure_ascii=False)
+            if name in ["tags", "circles", "vas"]:
+                r = await asmr.request(url= BASE + url, method= method)
+                with open(f"./json/{name}.json", "w", encoding="utf-8") as f:
+                    json.dump(r.json(), f, indent=4, ensure_ascii=False)
+            else:
+                r = await asmr.request(url= BASE + url, method= method, json={"userId": asmr.uuid})
+                pageSize = r.json()["pagination"]["pageSize"]
+                totalCount = r.json()["pagination"]["totalCount"]
+                pages = int(totalCount / pageSize) if totalCount % pageSize == 0 else int(totalCount / pageSize) + 1
+                for page in range(1, pages + 1):
+                    r = await asmr.request(url= BASE + url + f"?page={page}", method= method, json={"userId": asmr.uuid, "page": page})
+                    with open(f"./json/{name}/{name}{-page}.json", "a", encoding="utf-8") as f:
+                        json.dump(r.json(), f, indent=4, ensure_ascii=False)
     else:
         print("ASMR-200 無法連線")
 
@@ -47,7 +57,7 @@ def git_push():
 
 if __name__ == "__main__":
     load_dotenv()
-    if not os.path.exists("./RJS"):
-        os.mkdir("./RJS")
+    if not os.path.exists("./json"):
+        os.mkdir("./json")
     asyncio.run(update())
-    git_push()
+    # git_push()

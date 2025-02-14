@@ -60,4 +60,4 @@ if __name__ == "__main__":
     if not os.path.exists("./json"):
         os.mkdir("./json")
     asyncio.run(update())
-    # git_push()
+    git_push()
